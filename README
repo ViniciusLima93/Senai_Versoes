@@ -1,0 +1,6 @@
+git init 'para inicializar o git 
+git config 'para configurar o git 
+git add . 'para enviar o arquivo para a staging area
+git commit -m "comentário" ' para salvar alteração no arquivo
+git push -u origin master 'publicar as alterações no repositório remoto
+git pull 'baixar as alterações no repositório remoto
